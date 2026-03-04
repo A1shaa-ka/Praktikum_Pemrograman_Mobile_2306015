@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aplikasi_2306015
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Praktikum_Pemrograman_Mobile_2306015
+>>>>>>> fad6440729e6f10290a76ae203b27794bf300ac2
