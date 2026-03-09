@@ -47,7 +47,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Kyungsoo'), Text('Imut bangetttt')],
+                          children: [Text('Kyungsoo', style: TextStyle(fontWeight: .bold)), Text('Imut bangetttt')],
                         ),
                       ),
                     ),
@@ -56,7 +56,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Chenle'), Text('Mau 1')],
+                          children: [Text('Chenle', style: TextStyle(fontWeight: .bold)), Text('Mau 1')],
                         ),
                       ),
                     ),
@@ -65,7 +65,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Yuta'), Text('Lucu ih')],
+                          children: [Text('Yuta', style: TextStyle(fontWeight: .bold)), Text('Lucu ih')],
                         ),
                       ),
                     ),
@@ -74,7 +74,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Johnny'), Text('Gemesss bangetttt')],
+                          children: [Text('Johnny', style: TextStyle(fontWeight: .bold)), Text('Gemesss bangetttt')],
                         ),
                       ),
                     ),
@@ -83,7 +83,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Sehun'), Text('Kecilll bgt lucuu')],
+                          children: [Text('Sehun', style: TextStyle(fontWeight: .bold)), Text('Kecilll bgt lucuu')],
                         ),
                       ),
                     ),
@@ -92,7 +92,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Lay'), Text('Awww gemess')],
+                          children: [Text('Lay', style: TextStyle(fontWeight: .bold)), Text('Awww gemess')],
                         ),
                       ),
                     ),
@@ -101,7 +101,7 @@ class Homepage extends StatelessWidget {
                         padding: EdgeInsets.all(3),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [Text('Hendery'), Text('Gemoyy')],
+                          children: [Text('Hendery', style: TextStyle(fontWeight: .bold)), Text('Gemoyy')],
                         ),
                       ),
                     ),
